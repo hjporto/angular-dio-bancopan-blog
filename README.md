@@ -1,6 +1,9 @@
-# AngularBlog
+# Marvel Blog
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.5.
+Welcome, this is a project/blog developed with Angular version 17.0.5.
+It is a project guided by the dio team where all the code was fully coded and errors and doubts were fully resolved during the process via stackoverflow, FreeCodecamp and other forums.
+
+This project can and will be modified throughout this bootcamp.
 
 ## Development server
 
